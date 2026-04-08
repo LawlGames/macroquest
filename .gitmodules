@@ -1,10 +1,10 @@
 [submodule "src/eqlib"]
 	path = src/eqlib
-    url = https://github.com/macroquest/eqlib.git
+	url = https://github.com/lawlgames/eqlib.git
 [submodule "contrib/vcpkg"]
 	path = contrib/vcpkg
-	url = https://github.com/macroquest/vcpkg.git
+	url = https://github.com/LawlGames/vcpkg
 	branch = macroquest
 [submodule "data/lua/IntegrationTests"]
 	path = src/plugins/lua/lua/IntegrationTests
-	url = https://github.com/macroquest/integration-tests.git
+	url = https://github.com/LawlGames/integration-tests
